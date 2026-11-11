@@ -1,8 +1,13 @@
 {
   "name": "LibreTV-SourceList #4",
   "version": 2,
-  "exportedAt": 1794413605985,
+  "exportedAt": 1794415142382,
   "sources": [
+    {
+      "name": "🐝想看采集",
+      "url": "https://m3u8.xiangkanapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
     {
       "name": "👠麻豆村",
       "url": "https://madoucun.cn/api.php/provide/vod/?ac=list",

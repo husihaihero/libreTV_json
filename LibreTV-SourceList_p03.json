@@ -1,8 +1,13 @@
 {
   "name": "LibreTV-SourceList #3",
   "version": 2,
-  "exportedAt": 1794413605985,
+  "exportedAt": 1794415142382,
   "sources": [
+    {
+      "name": "影库资源(切)",
+      "url": "https://api.ykapi.net/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
     {
       "name": "影库资源",
       "url": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8",
@@ -60,7 +65,8 @@
     },
     {
       "name": "暴風",
-      "url": "https://bfzyapi.com/api.php/provide/vod"
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
     },
     {
       "name": "🎈┃暴风┃影视",
@@ -179,7 +185,8 @@
     },
     {
       "name": "量子",
-      "url": "https://cj.lziapi.com/api.php/provide/vod"
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "isAdult": false
     },
     {
       "name": "🦄量子┃资源",
@@ -494,11 +501,6 @@
     {
       "name": "🌞天空",
       "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "🐝想看采集",
-      "url": "https://m3u8.xiangkanapi.com/api.php/provide/vod",
       "isAdult": false
     }
   ],

@@ -1,8 +1,13 @@
 {
   "name": "LibreTV-SourceList #2",
   "version": 2,
-  "exportedAt": 1794413605985,
+  "exportedAt": 1794415142382,
   "sources": [
+    {
+      "name": "💜奇艺",
+      "url": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
+      "isAdult": false
+    },
     {
       "name": "🐧腾讯",
       "url": "http://tvbox-1-g5221611.deta.app/vod/qq",
@@ -496,11 +501,6 @@
     {
       "name": "🥇影库-",
       "url": "https://api.ykapi.net/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "影库资源(切)",
-      "url": "https://api.ykapi.net/api.php/provide/vod/at/json",
       "isAdult": false
     }
   ],

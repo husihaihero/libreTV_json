@@ -1,7 +1,7 @@
 {
   "name": "LibreTV-SourceList #1",
   "version": 2,
-  "exportedAt": 1794413605985,
+  "exportedAt": 1794415142382,
   "sources": [
     {
       "name": "🚈┃轻简┃2K",
@@ -197,6 +197,11 @@
       "name": "AVZY898资源",
       "url": "http://avzy898.com/inc/apijson_vod.php",
       "isAdult": false
+    },
+    {
+      "name": "*91麻豆②",
+      "url": "http://bt4.cc/api.php/provide/vod/from/mdm3u8",
+      "isAdult": true
     },
     {
       "name": "*🔞博天堂",
@@ -496,11 +501,6 @@
     {
       "name": "🥗天天影视(聚)",
       "url": "http://tttv.cf/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "💜奇艺",
-      "url": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
       "isAdult": false
     }
   ],
