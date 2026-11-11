@@ -1,8 +1,191 @@
 {
   "name": "LibreTV-SourceList #3",
   "version": 2,
-  "exportedAt": 1794408203149,
+  "exportedAt": 1794413605985,
   "sources": [
+    {
+      "name": "影库资源",
+      "url": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "🌕鱼乐资源le",
+      "url": "https://api.ylzy1.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🐳鱼乐",
+      "url": "https://api.yulecj.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "*花椒资源",
+      "url": "https://apihjzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "花椒资源(切)",
+      "url": "https://apihjzy.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "辣椒采集",
+      "url": "https://apilj.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "apilj辣椒资源",
+      "url": "https://apilj.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "探探资源(切)",
+      "url": "https://apittzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🥈探探",
+      "url": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "🚸玉兔采集",
+      "url": "https://apiyutu.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🌪️暴风影音",
+      "url": "https://app.bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴風",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "🎈┃暴风┃影视",
+      "url": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "523资源(切)",
+      "url": "https://caiji.523zyw.com/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "草莓资源(切)",
+      "url": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "草莓资源",
+      "url": "https://caiji.caomeiapi.com/inc/apijson_vod.php?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "花魁资源(切)",
+      "url": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "三级片资源",
+      "url": "https://caiji.jjjzy.cc/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "🚘 快车.云播",
+      "url": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "快车|点播",
+      "url": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "魔都|点播",
+      "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "奶茶资源(切)",
+      "url": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "奶茶资源",
+      "url": "https://caiji.naichaapi.com/inc/apijson_vod.php?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "🐝诺迅资源",
+      "url": "https://caiji.nxflv.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "葡萄资源(切)",
+      "url": "https://caiji.putaozy.net/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "🦁奇虎",
+      "url": "https://caiji.qhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🌟奇虎影视(简体)",
+      "url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "🚸色猫采集",
+      "url": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "isAdult": false
+    },
+    {
+      "name": "约爱影视(官) | 太阳视听",
+      "url": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🔞爱播资源",
+      "url": "https://cj.apiabzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "爱播av",
+      "url": "https://cj.apiabzy.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "爱播资源(切)",
+      "url": "https://cj.apiabzy.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "❤️短剧一",
+      "url": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "🦄量子┃资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "isAdult": false
+    },
     {
       "name": "🈳量子云播",
       "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
@@ -21,6 +204,11 @@
     {
       "name": "🐷小小┃赛文",
       "url": "https://cj.wanbu.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "丫丫|点播",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
       "isAdult": false
     },
     {
@@ -134,6 +322,11 @@
       "isAdult": false
     },
     {
+      "name": "华为吧|点播",
+      "url": "https://hw8.live/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
       "name": "🍈考拉资源(官)",
       "url": "https://ikaola.tv/api.php/provide/vod",
       "isAdult": false
@@ -146,6 +339,11 @@
     {
       "name": "🍆爱坤",
       "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "小黄人|点播",
+      "url": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod",
       "isAdult": false
     },
     {
@@ -301,206 +499,6 @@
     {
       "name": "🐝想看采集",
       "url": "https://m3u8.xiangkanapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "👠麻豆村",
-      "url": "https://madoucun.cn/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "麻豆视频",
-      "url": "https://madouse.la/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "麻豆视频2(切)",
-      "url": "https://madouse.la/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "成人35",
-      "url": "https://mgzyz1.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "mgzyz1芒果资源",
-      "url": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "芒果资源(切)",
-      "url": "https://mgzyz1.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "⏱秒看影视",
-      "url": "https://mkzy.vip/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🎤K歌【选[音轨]切换原音/伴奏】",
-      "url": "https://mv.clem7.repl.co/mv/vod?maxCount=200",
-      "isAdult": false
-    },
-    {
-      "name": "电视┃MTV",
-      "url": "https://mv.wogg.link/mv/vod",
-      "isAdult": false
-    },
-    {
-      "name": "木子看剧〔官源〕",
-      "url": "https://mzkj.maccms.cf/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "*柚萌视频",
-      "url": "https://nameweb.xyz/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🏆oletv資源(海外)(简体)",
-      "url": "https://olevod1.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🐝趣看采集",
-      "url": "https://qkmp4.cn/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🐁淘片影视",
-      "url": "https://raw.gitcode.com/njyy/nj/raw/master/lib/apiv4666apiv3128json.html",
-      "isAdult": false
-    },
-    {
-      "name": "🌩闪电",
-      "url": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "色窝资源(切)",
-      "url": "https://sewozyapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "色窝资源",
-      "url": "https://sewozyapi.com/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "鲨鱼(切)",
-      "url": "https://shayuapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "鲨鱼🔞",
-      "url": "https://shayuapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "丝袜资源(切)",
-      "url": "https://siwazyw.cc/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "siwazyw丝袜资源",
-      "url": "https://siwazyw.cc/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "*丝袜资源",
-      "url": "https://siwazyw.net/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "森林采集",
-      "url": "https://slapibf.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "水蜜桃",
-      "url": "https://smt999.cc/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "👀┃19┃视频",
-      "url": "https://sousu.popefih902.repl.co/vod/19",
-      "isAdult": false
-    },
-    {
-      "name": "🏂速播",
-      "url": "https://subocaiji.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🏃速播采集",
-      "url": "https://subocaiji.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "索尼",
-      "url": "https://suoniapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🛸┃索尼┃2K",
-      "url": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "索尼┃资源",
-      "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
-      "isAdult": false
-    },
-    {
-      "name": "🥥 索尼资源",
-      "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "🕹️淘片┃采集",
-      "url": "https://taopianapi.com/cjapi/mc/vod/json.html",
-      "isAdult": false
-    },
-    {
-      "name": "🌕taopian資源(淘片)(简体)",
-      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
-      "isAdult": false
-    },
-    {
-      "name": "甜蜜资源",
-      "url": "https://timizy10.cc/api.php/provide/vod/?ac=list",
-      "isAdult": false
-    },
-    {
-      "name": "搜狐视频",
-      "url": "https://tvbox-1-g5221611.deta.app/vod/sohu",
-      "isAdult": false
-    },
-    {
-      "name": "🎼MV视频",
-      "url": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "isAdult": false
-    },
-    {
-      "name": "*万影色",
-      "url": "https://wanying4.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "万影色(切)",
-      "url": "https://wanying4.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "🐝3 9影视",
-      "url": "https://www.39kan.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "🌕77韩剧(简体)",
-      "url": "https://www.77hanju.com/api.php/provide/vod",
       "isAdult": false
     }
   ],

@@ -1,8 +1,213 @@
 {
   "name": "LibreTV-SourceList #4",
   "version": 2,
-  "exportedAt": 1794408203149,
+  "exportedAt": 1794413605985,
   "sources": [
+    {
+      "name": "👠麻豆村",
+      "url": "https://madoucun.cn/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "麻豆视频",
+      "url": "https://madouse.la/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "麻豆视频2(切)",
+      "url": "https://madouse.la/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "成人35",
+      "url": "https://mgzyz1.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "mgzyz1芒果资源",
+      "url": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "芒果资源(切)",
+      "url": "https://mgzyz1.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "⏱秒看影视",
+      "url": "https://mkzy.vip/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🎤K歌【选[音轨]切换原音/伴奏】",
+      "url": "https://mv.clem7.repl.co/mv/vod?maxCount=200",
+      "isAdult": false
+    },
+    {
+      "name": "电视┃MTV",
+      "url": "https://mv.wogg.link/mv/vod",
+      "isAdult": false
+    },
+    {
+      "name": "木子看剧〔官源〕",
+      "url": "https://mzkj.maccms.cf/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "*柚萌视频",
+      "url": "https://nameweb.xyz/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🏆oletv資源(海外)(简体)",
+      "url": "https://olevod1.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "飘零|点播",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🐝趣看采集",
+      "url": "https://qkmp4.cn/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🐁淘片影视",
+      "url": "https://raw.gitcode.com/njyy/nj/raw/master/lib/apiv4666apiv3128json.html",
+      "isAdult": false
+    },
+    {
+      "name": "🌩闪电",
+      "url": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "色窝资源(切)",
+      "url": "https://sewozyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "色窝资源",
+      "url": "https://sewozyapi.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "鲨鱼(切)",
+      "url": "https://shayuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "鲨鱼🔞",
+      "url": "https://shayuapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "丝袜资源(切)",
+      "url": "https://siwazyw.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "siwazyw丝袜资源",
+      "url": "https://siwazyw.cc/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "*丝袜资源",
+      "url": "https://siwazyw.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "森林采集",
+      "url": "https://slapibf.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "水蜜桃",
+      "url": "https://smt999.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "👀┃19┃视频",
+      "url": "https://sousu.popefih902.repl.co/vod/19",
+      "isAdult": false
+    },
+    {
+      "name": "🏂速播",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🏃速播采集",
+      "url": "https://subocaiji.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "索尼",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🛸┃索尼┃2K",
+      "url": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "索尼┃资源",
+      "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "🥥 索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "🕹️淘片┃采集",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "isAdult": false
+    },
+    {
+      "name": "🌕taopian資源(淘片)(简体)",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+      "isAdult": false
+    },
+    {
+      "name": "甜蜜资源",
+      "url": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "搜狐视频",
+      "url": "https://tvbox-1-g5221611.deta.app/vod/sohu",
+      "isAdult": false
+    },
+    {
+      "name": "🎼MV视频",
+      "url": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "isAdult": false
+    },
+    {
+      "name": "*万影色",
+      "url": "https://wanying4.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "万影色(切)",
+      "url": "https://wanying4.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "🐝3 9影视",
+      "url": "https://www.39kan.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "🌕77韩剧(简体)",
+      "url": "https://www.77hanju.com/api.php/provide/vod",
+      "isAdult": false
+    },
     {
       "name": "成人33",
       "url": "https://www.888dav.com/api.php/provide/vod",
@@ -99,6 +304,11 @@
       "isAdult": false
     },
     {
+      "name": "黑木耳|点播",
+      "url": "https://www.heimuer.tv/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
       "name": "🐂红牛",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod",
       "isAdult": false
@@ -131,6 +341,16 @@
     {
       "name": "快播",
       "url": "https://www.kuaibozy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "快看|点播",
+      "url": "https://www.kuaikan-api.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "快云|点播",
+      "url": "https://www.kuaiyunzy.com/api.php/provide/vod",
       "isAdult": false
     },
     {
@@ -251,6 +471,11 @@
     {
       "name": "🔰作风",
       "url": "https://ys.zf520.cn/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "业余|点播",
+      "url": "https://yyff.540734621.xyz/api.php/provide/vod",
       "isAdult": false
     },
     {
