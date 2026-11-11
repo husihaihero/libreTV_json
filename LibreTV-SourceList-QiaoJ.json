@@ -1,0 +1,164 @@
+{
+  "name": "LibreTV-SourceList (QiaoJ)",
+  "sources": [
+    {
+      "name": "快播",
+      "url": "https://www.kuaibozy.com/api.php/provide/vod"
+    },
+    {
+      "name": "百度",
+      "url": "https://api.apibdzy.com/api.php/provide/vod?ac=list"
+    },
+    {
+      "name": "成人01",
+      "url": "http://madouse.la/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人02",
+      "url": "http://51smt4.xyz/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人10",
+      "url": "http://api.kudian70.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人11",
+      "url": "http://apilj.com/api.php/provide/vod/at/json",
+      "isAdult": true
+    },
+    {
+      "name": "成人13",
+      "url": "http://api.putaozy.net/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人17",
+      "url": "http://www.jializyzapi.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人19",
+      "url": "http://91md.me/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人22",
+      "url": "http://www.feifei67.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人23",
+      "url": "http://api.kdapi.info/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人25",
+      "url": "http://99zy.pw/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人31",
+      "url": "https://www.leyuzyapi.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人32",
+      "url": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人33",
+      "url": "https://www.888dav.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人35",
+      "url": "https://mgzyz1.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人38",
+      "url": "https://api.ykapi.net/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人40",
+      "url": "https://shayuapi.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人42",
+      "url": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人47",
+      "url": "https://apittzy.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人50",
+      "url": "https://lbapi9.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人51",
+      "url": "https://kkzy.me/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人52",
+      "url": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人53",
+      "url": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人55",
+      "url": "https://siwazyw.cc/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人58",
+      "url": "https://kudouzy.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人60",
+      "url": "https://caiji.523zyw.com/inc/apijson_vod.php",
+      "isAdult": true
+    },
+    {
+      "name": "成人65",
+      "url": "https://api.xiuseapi.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人69",
+      "url": "https://api.yinwoapi.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人70",
+      "url": "https://sewozyapi.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人71",
+      "url": "https://api.apilyzy.com/api.php/provide/vod",
+      "isAdult": true
+    },
+    {
+      "name": "成人72",
+      "url": "http://cj.apiabzy.com/api.php/provide/vod",
+      "isAdult": true
+    }
+  ],
+  "liveSources": []
+}
